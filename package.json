@@ -1,7 +1,10 @@
 {
   "name": "twothousandeighteen",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
+    "description": "",
+  "main": "index.js",
+  "author": "SPNFDWB<spoonfedweb@gmail.com>",
   "scripts": {
     "start": "node ./bin/www"
   },
@@ -14,5 +17,6 @@
     "pug": "2.0.0-beta11",
     "serve-favicon": "~2.4.5",
     "stylus": "0.54.5"
-  }
+  },
+  "license": "ISC"
 }
